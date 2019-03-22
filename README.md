@@ -1,23 +1,6 @@
 Cocos2D-ObjC
 ============
 
-Want pure x-platform Swift? 
-===============================
-
-We experience rewrite in [this repository](https://github.com/s1ddok/Fiber2D).
-
-**PLEASE READ BEFORE POSTING AN ISSUE!**  
-If in doubt, please post questions and comments in the forum  
-[The Official Forum][3]  
-
-This way, more users can learn from your experince.  
-  
-  
-=====
-Please note, that the official site has moved. Please update your bookmarks  
-[The Official Site][1]  
-[The Official Forum][3]  
-
 [Cocos2D-ObjC][1] is a framework for building 2D games, demos, and other
 graphical/interactive applications for iOS, Mac and tvOS.
 It is based on the [Cocos2D][2] design, but instead of using Python it uses Swift and / or Objective-C.
